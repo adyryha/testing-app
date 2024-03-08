@@ -18,6 +18,6 @@ Route::get('/', function () {
     //return view ('course/index');
     return view ('course/form');
     //return view ('student/index');
-    //return view ('student/forms');
+    //return view ('student/form');
     //return view ('belajar');
 });
